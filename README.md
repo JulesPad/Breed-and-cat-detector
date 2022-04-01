@@ -5,5 +5,7 @@ To create this AI detector I finetuned a [Resnet34](https://towardsdatascience.c
 
 To use this model download the **model.pkl** file. 
 
+To run and modify the model by yourself, use the jupyter notebook file **DetectorBuilder.ipynb**
+
 
 
